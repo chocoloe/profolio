@@ -23,10 +23,10 @@ const projects = [
   {
     name: 'Card-Mise',
     description:
-      'A web application that allows users to create and share their own flashcards and motivate each other to tackle addiction issues in their own life',
+      'A web application that allows users to create and share their own flashcards and motivate each other to tackle addiction issues in their own life. *currently under construction*',
     stack: ['TypeScript', 'Next.js', 'Prisma', 'CockroachDB', 'Tailwind', 'Docker', 'Auth.js'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://lightbulb-ten.vercel.app/',
+    sourceCode: '',
+    livePreview: '',
   },
   {
     name: 'SMASH',
@@ -52,6 +52,7 @@ const skills = [
   'Node.js',
   'Git',
   'CI/CD',
+  'PostgreSQL',
   'Azure',
   'GCP',
   'Bash',
